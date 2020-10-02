@@ -15,3 +15,6 @@ Read data from gyro sensor and send it via serial separated by comas to read wit
 
 ## FIR.ino
 Implemantation of FIR filter in 2 forms
+
+## GYRO_CHARACTERISTICS
+characterization of gyro digital sensor
