@@ -2,8 +2,10 @@
 (EN/ES)
 
 Scripts for the assignments and projects for the Digital Processing 2020-3 course at PUJ-Bogota
+All the .ino implementations are done in arduino due (SAM3X8E)
 
 Scripts para las tareas y proyectos de la clase de DSP: Teoría y Procesadores en el periodo 2020-30
+Todos los desarrollos .ino son implementados en arduino due (mcu SAM3X8E) 
 
 --
 
