@@ -19,4 +19,7 @@ Read data from gyro sensor and send it via serial separated by comas to read wit
 Implemantation of FIR filter in 2 forms
 
 ## GYRO_CHARACTERISTICS
-characterization of gyro digital sensor
+Characterization of gyro digital sensor
+
+## fft.ino
+Recording of microphone and implementation of fft decimation in frequency of the samples
